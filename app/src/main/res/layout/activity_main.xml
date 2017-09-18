@@ -53,7 +53,7 @@
         android:layout_height="wrap_content"
         android:padding="10dp"
         android:textColor="@color/colorAccent"
-        android:textSize="25dp" />
+        android:textSize="23dp" />
 
     <Button
         android:id="@+id/button_calculate"
